@@ -47,7 +47,7 @@ function play() {
   const timib = new Date ();
   const timi = (timib-timia)/1000;
     if (rettir === 0){
-      heildarsvör = 0;
+      medalsvor = 0;
     }
     else{
       medalsvor = rettir/timi;
